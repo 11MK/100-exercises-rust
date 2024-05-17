@@ -5,6 +5,9 @@
 // It should also have a method named `is_available` that returns a `true` if the quantity is
 // greater than 0, otherwise `false`.
 
+
+
+
 #[cfg(test)]
 mod tests {
     use super::*;
